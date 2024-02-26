@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5500&center=true&width=1200&lines=Frontend+Developer+from+India)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Redux, Typescript.
+- 🌱 I’m currently learning PostgresSQL.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=znjs&label=Profile%20views&color=0e75b6&style=flat" alt="znjs" /> </p>
